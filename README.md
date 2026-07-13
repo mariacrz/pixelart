@@ -79,8 +79,7 @@ jupyter notebook pixelart.ipynb
 ## 📚 Referências
 
 - CoCADa — material da disciplina (Seções sobre K-means e SVD)
-- [Repositório de exemplo: Eigenfaces (Milton Salgado)](https://github.com/milton-salgado/eigenfaces)
 
 ## ✍️ Autor
 
-_seu nome aqui_
+Maria Clara Zago
