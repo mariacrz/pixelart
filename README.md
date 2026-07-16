@@ -75,6 +75,6 @@ pixelart/
 - material da disciplina: https://drive.google.com/file/d/1gs_W6fUx4uDV9xDi01Yx8VTbtRz86Lpq/view?usp=sharing
 - exemplos de projetos: 
 
-## ✍️ Autor
+## Autor
 
 Maria Clara Zago
