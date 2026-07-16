@@ -77,4 +77,4 @@ pixelart/
 
 ## Autor
 
-Maria Clara Zago
+Maria Clara Rodrigues Zago
