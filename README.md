@@ -37,7 +37,6 @@ pixelart/
 ├── pixelart.ipynb          # notebook principal com todo o pipeline
 ├── imagens/                # imagens de entrada
 ├── outputs/                # resultados gerados
-├── assets/preview/         # imagens usadas neste README
 ├── docs/requirements.txt   # dependências
 └── README.md
 ```
