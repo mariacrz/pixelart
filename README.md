@@ -1,6 +1,8 @@
+Projeto Final da disciplina de **Computação Científica e Análise de Dados**
+
+
 # Pixel Art com K-means e Redução de Resolução
 
-Projeto Final da disciplina de **Computação Científica e Análise de Dados**, 
 Transforma imagens em *pixel art* combinando **redução de resolução** com **redução de paleta de cores por K-means**.
 
 
