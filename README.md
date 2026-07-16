@@ -37,10 +37,7 @@ Esse é um problema clássico de **Reconhecimento de Padrões**, como foi visto 
 
 ```
 pixelart/
-├── pixelart.ipynb          # notebook principal com todo o pipeline
-├── imagens/                # imagens de entrada
-├── outputs/                # resultados gerados
-├── docs/requirements.txt   # dependências
+├── pixelart.ipynb          # notebook principal com o código todo
 └── README.md
 ```
 
@@ -49,7 +46,7 @@ pixelart/
 **Google Colab:**
 1. Abrir [colab.research.google.com](https://colab.research.google.com)
 2. Fazer upload do `pixelart.ipynb`
-3. Rode as células em ordem (`Shift + Enter`)
+3. Rode as células em ordem (ou 'executar tudo')
 4. Fazer upload da sua imagem na segunda célula (clicar em 'escolher arquivos')
 
 
