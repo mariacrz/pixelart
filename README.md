@@ -1,4 +1,4 @@
-# Pixel Art com K-means e Redução de resolução
+# Pixel Art com K-means e Redução de Resolução
 
 Projeto Final da disciplina de **Computação Científica e Análise de Dados**, 
 Transforma imagens em *pixel art* combinando **redução de resolução** com **redução de paleta de cores por K-means**.
@@ -11,7 +11,7 @@ Transformar uma imagem em pixel art envolve dois problemas diferentes:
 1. **Redução da resolução** — dividir a imagem em blocos e substituir cada bloco pela cor média, criando o efeito de "pixel grande".
 2. **Quantização de cor** — reduzir a imagem a apenas `k` cores.
 
-O segundo problema é um problema de **clusterização**: cada pixel é um ponto em ℝ³ (R, G, B), e o **K-means** encontra os `k` centros que minimizam a soma dos quadrados das distâncias de cada pixel ao seu centro mais próximo. Isso é um problema clássico de **Reconhecimento de Padrões**, como foi visto no conteúdo da disciplina ao longo do curso.
+A redução do número de cores é exatamente um problema de**clusterização**: cada pixel é um ponto em ℝ³ (R, G, B), e o **K-means** encontra os `k` centros que minimizam a soma dos quadrados das distâncias de cada pixel ao seu centro mais próximo. Isso é um problema clássico de **Reconhecimento de Padrões**, como foi visto no conteúdo da disciplina ao longo do curso.
 
 ##  Pipeline
 
